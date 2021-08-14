@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "T-Shirts",
+    "image": "👕",
+    "from": "Spain",
+    "type": "2 Full-Sleeves, 2 Half-Sleeves ",
+    "quantity": "4 👕",
+    "price": "1500",
+    "discount": true,
+    "description": "Preshrunk to let the size fit you perfectly,ﾠMore breathability and resistant with combed yarn and soft feel of cotton, 60 degree color fastness for the bold and bright look, Sustainable colors ensuring long-lastingness."
+  },
+  {
+    "id": 1,
+    "productName": "Jeans",
+    "image": "👖",
+    "from": "Portugal",
+    "type": "1 Skinny jeans (Tight jeans), 1 Straight leg jeans",
+    "quantity": "2 👖",
+    "price": "2000",
+    "discount": false,
+    "description": "Shop from a wide range of Jeans from Guchu. Perfect for your everyday use, you could pair it with a stylish t-shirt or shirt complete the look."
+  },
+  {
+    "id": 2,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },
+  {
+    "id": 3,
+    "productName": "Shorts",
+    "image": "🩳",
+    "from": "USA",
+    "type": "4 Puma Shorts",
+    "quantity": "4 🩳",
+    "price": "2000",
+    "discount": true,
+    "description": "Black solid mid-rise lounge shorts, has an inner elasticated with outer drawstring closure, two pockets."
+  },
+  {
+    "id": 4,
+    "productName": "Sari",
+    "image": "🥻",
+    "from": "Varanasi",
+    "type": "2 Banarasi Sari",
+    "quantity": "2 🥻",
+    "price": "8000",
+    "discount": false,
+    "description": "Teal and Gold-toned banarasi woven design saree and has a woven design border.Banarasi sarees originate from the city of Varanasi (Uttar Pradesh). These are well known for the Mughal Era inspired designs in golden as well as silver brocade or Zari."
+  }
+]
